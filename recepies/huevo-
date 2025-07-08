@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Huevo Escalfado</title>
+</head>
+<body>
+    <h1>Huevo Escalfado</h1>
+    <a href="../index.html">Home</a>
+    <img src="../img/huevo-escalfado.jpeg" alt="huevo escalfado">
+    <h3>Huevo Escalfado</h3>
+    <p>Es necesario controlar muy bien el tiempo que está en el agua para que la yema no se quede pasada.
+    </p>
+    <p>El tiempo ideal son 5 min a fuego bajo.
+    </p>
+    <h3>Ingredientes</h3>
+    <ul>
+        <li>Huevo</li>
+        <li>Sal</li>
+        <li>Agua</li>
+     
+    </ul>
+    <ol>
+        <li>Poner el agua </li>
+        <li>Cocinar a fuego bajo durante 5 min</li>
+        <li>Sacar</li>
+    </ol>
+</body>
+</html>
